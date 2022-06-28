@@ -56,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -71,9 +71,13 @@ Yiqiao Jin (Ahren) is an incoming Ph.D. student at Georgia Institute of Technolo
 <!-- His research interests include distributed robotics, mobile computing and programmable matter.  -->
 He will work as a graduate research assistant at NLP X Lab.
 
+
+He is now working as a research intern at [Microsoft Research Asia (MSRA)]('https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He is mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and lead research projects on Fake News Detection and Explainable NLP.
+
+
 Previously, Yiqiao worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/))
 under the mentorship of 
 [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and 
-[Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+[Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

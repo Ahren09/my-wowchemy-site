@@ -14,9 +14,14 @@ authors:
   - Xing Xie
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+- 'UCLA'
+- 'Microsoft Research Asia'
+- 'Hong Kong Baptist University'
+- 'UCLA'
+- 'UCLA'
+- 'Shen Zhen University'
+- 'Microsoft Research Asia'
 
 date: '2022-02-21 T00:00:00Z'
 doi: ''
