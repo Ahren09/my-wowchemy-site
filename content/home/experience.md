@@ -81,5 +81,5 @@ experience:
       Created IAR Manual Analysis, an AWS Step Functions workflow that uses AWS Lambda to aggregate datapoints from various data sources (S3, DynamoDB) for SageMaker ML model training, and handles $\ge$ 16,000 requests per summary stage.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
