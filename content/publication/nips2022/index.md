@@ -33,12 +33,12 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: Preprint # In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'22)*
-publication_short: Preprint# In *AAAI*
+publication_short: Preprint
 
 abstract: In this paper, we move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the data complexity and the model's inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the global optimum. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios. 
 
 # Summary. An optional shortened abstract.
-summary: Low-Resource, Natural Language Processing, 
+summary: Low-Resource, Natural Language Processing, Explainable AI,
 
 tags: []
 

@@ -30,7 +30,7 @@ education:
       year: 2022-2027
     - course: BSc in Computer Science
       institution: University of California, Los Angeles (UCLA)
-      year: 2018-2022
+      year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,9 +56,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -67,17 +67,16 @@ email: ''
 highlight_name: true
 ---
 
-Yiqiao Jin (Ahren) is an incoming Ph.D. student at Georgia Institute of Technology, advised by Professor [Wei Xu](https://cocoxu.github.io/). 
+Yiqiao Jin (Ahren) is a Ph.D. student at Georgia Institute of Technology, advised by Professor [Wei Xu](https://cocoxu.github.io/). 
 <!-- His research interests include distributed robotics, mobile computing and programmable matter.  -->
-He will work as a graduate research assistant at NLP X Lab.
+He is working as a graduate research assistant at NLP X Lab.
+
+Previously, he was working as a research intern at [Microsoft Research Asia (MSRA)]('https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He is mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and lead research projects on Fake News Detection, Explainable NLP, Low-Resource Machine Learning, and Recommendation.
 
 
-He is now working as a research intern at [Microsoft Research Asia (MSRA)]('https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He is mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and lead research projects on Fake News Detection and Explainable NLP.
-
-
-Previously, Yiqiao worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/))
+Yiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/))
 under the mentorship of 
 [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and 
-[Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/). 
+[Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
