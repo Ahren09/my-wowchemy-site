@@ -1,33 +1,30 @@
 ---
-title: 'Towards Fine-Grained Reasoning for Fake News Detection'
+title: 'Contributor Recommendation for Open-Sourced Projects'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Xiting Wang
-  - Ruichao Yang
+  - Yunsheng Bai
+  - Yanqiao Zhu
   - Yizhou Sun
   - Wei Wang
-  - Hao Liao
-  - Xing Xie
 
 # Author notes (optional)
 author_notes:
-- 'UCLA'
-- 'Microsoft Research Asia'
-- 'Hong Kong Baptist University'
-- 'UCLA'
-- 'UCLA'
-- 'Shen Zhen University'
-- 'Microsoft Research Asia'
+  - 'Georgia Institute of Technology'
+  - 'UCLA'
+  - 'UCLA'
+  - 'UCLA'
+  - 'UCLA'
 
-date: '2022-02-21 T00:00:00Z'
+date: '2022-09-20 T00:00:00Z'
 doi: ''
 
+# Note: the publishDate cannot be in the future
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-02-21T00:00:00Z'
+publishDate: '2022-09-20T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,15 +33,15 @@ publishDate: '2022-02-21T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'22)*
-publication_short: In *AAAI 2022*
+publication: Under Review # In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'22)*
+publication_short: Under Review  # In *KDD 2022*
 
-abstract: The detection of fake news often requires sophisticated reasoning skills, such as logically combining information by considering word-level subtle clues. In this paper, we move towards fine-grained reasoning for fake news detection by better reflecting the logical processes of human thinking and enabling the modeling of subtle clues. In particular, we propose a fine-grained reasoning framework by following the human information-processing model, introduce a mutual-reinforcement-based method for incorporating human knowledge about which evidence is more important, and design a prior-aware bi-channel kernel graph network to model subtle differences between pieces of evidence. Extensive experiments show that our model outperforms the state-of-the-art methods and demonstrate the explainability of our approach.
+abstract: TBD
 
 # Summary. An optional shortened abstract.
-summary: Fake News Detection, Natural Language Processing, 
+summary: Code recommendation based on Graph Neural Networks 
 
-tags: []
+tags: [GNN]
 
 # Display this page in the Featured widget?
 featured: true
@@ -76,14 +73,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - aaai2022
+  - www2023
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: AAAI22-FakeNews
+slides: ""
 ---
 
 <!-- {{% callout note %}}

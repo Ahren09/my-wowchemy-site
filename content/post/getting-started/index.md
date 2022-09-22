@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Our proposed PFit model: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Our proposed PFit model'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -53,7 +53,7 @@ Yiqiao Jin<sup>1</sup>, Xiting Wang<sup>2</sup>, Yaru Hao<sup>2</sup>, Yizhou Su
 We move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the data complexity and the model's inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the global optimum. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios.
 
 
-s<!-- ## Get Started
+
 {{< figure src="posts/getting-started/PFit.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 

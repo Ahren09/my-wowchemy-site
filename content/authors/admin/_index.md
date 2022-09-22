@@ -42,7 +42,7 @@ social:
     link: 'ahren2040@g.ucla.edu'
   - icon: twitter
     icon_pack: fab
-    link: #
+    link: https://twitter.com/AhrenJin
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=s_AZwbYAAAAJJ
@@ -68,16 +68,15 @@ email: ''
 highlight_name: true
 ---
 
-Yiqiao Jin (Ahren) is a Ph.D. student at Georgia Institute of Technology, advised by Professor [Wei Xu](https://cocoxu.github.io/). 
-<!-- His research interests include distributed robotics, mobile computing and programmable matter.  -->
-He is working as a graduate research assistant at NLP X Lab.
+Yiqiao Jin (靳轶乔, Ahren) is a CS Ph.D. student at Georgia Institute of Technology, advised by Professor [Srijan Kumar](https://cc.gatech.edu/~srijan/). 
 
-Previously, he was working as a research intern at [Microsoft Research Asia (MSRA)]('https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He is mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and lead research projects on Fake News Detection, Explainable NLP, Low-Resource Machine Learning, and Recommendation.
+Previously, he was working as a research intern at [Microsoft Research Asia (MSRA)]('https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He was mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and lead research projects on Misinformation Detection, Explainable NLP, Low-Resource Machine Learning, and Recommender Systems.
 
 
-Yiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/))
+Yiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/)) on graph-based recommender systems
 under the mentorship of 
 [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and 
-[Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/).
+[Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/)
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -30,7 +30,7 @@ experience:
     date_start: '2022-07-25'
     date_end: ''
     description: |2-
-      Work on Extreme Classification and Social Media.
+      Research Topics: Social Network Analysis, Misinformation Detection, Graph Neural Networks, Recommender Systems.
   
   - title: Research Intern
     company: Microsoft Research Asia
@@ -41,8 +41,7 @@ experience:
     date_end: '2022-07-22'
     description: |2-
       Publish two academic papers on Fake News Detection at top-tier conferences (AAAI'22 and KDD'22).
-
-      Conduct Research on Fake News Detection and Natural Language Processing for low-resource (limited data) scenarios.
+      Conduct Research on Fake News Detection and Natural Language Processing for low-resource (limited data) scenarios. 
   
   - title: Graduate Research Assistant
     company: UCLA Scalable Analytics Institute (ScAi)
