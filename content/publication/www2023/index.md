@@ -1,5 +1,5 @@
 ---
-title: 'Contributor Recommendation for Open-Sourced Projects'
+title: 'Code Recommendation for Open Source Software Developers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

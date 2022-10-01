@@ -6,7 +6,7 @@ title: Yiqiao Jin
 superuser: true
 
 # Role/position/tagline
-role: Research Intern at Microsoft Research Asia (MSRA)
+role: Graduate Research Assistant at Georgia Institute of Technology # Research Intern at Microsoft Research Asia (MSRA)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,15 @@ organizations:
     url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Social Computing, Misinformation, Graph Neural Networks, and Data Mining.
 
 # Interests to show in About widget
 interests:
-  - Natural Language Processing
   - Graph Neural Networks
+  - Natural Language Processing
   - Data Mining
+  - Social Computing
+  - Misinformation
 
 # Education to show in About widget
 education:
