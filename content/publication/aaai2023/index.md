@@ -19,26 +19,26 @@ author_notes:
   - 'UCLA'
   - 'Microsoft Research Asia'
 
-date: '2022-05-20 T00:00:00Z'
+date: '2022-12-05 T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-20T00:00:00Z'
+publishDate: '2022-12-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review # In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'22)*
-publication_short: Under Review 
+publication: In *Proceedings of the 37th AAAI Conference (AAAI'23)*
+publication_short: In *AAAI 2023*
 
-abstract: In this paper, we move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the data complexity and the model's inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the global optimum. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios. 
+abstract: In this paper, we move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the number of data points and the model's inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the global optimum. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios. 
 
 # Summary. An optional shortened abstract.
-summary: Low-Resource, Natural Language Processing, Explainable AI,
+summary: Low-Resource, Natural Language Processing, Natural Language Understanding, Text Classification
 
 tags: []
 
@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2211.13638'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,7 +62,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: Yiqiao Jin'
+  caption: 'Our proposed PFit framework.'
   focal_point: ''
   preview_only: false
 

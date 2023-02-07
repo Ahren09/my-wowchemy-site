@@ -42,7 +42,7 @@ abstract: The wide spread of fake news has caused serious societal issues. We pr
 # Summary. An optional shortened abstract.
 summary: Fake News Detection, Natural Language Processing, 
 
-tags: []
+tags: [Misinformation, GNN, Social Network Analysis, Social Media]
 
 # Display this page in the Featured widget?
 featured: true
@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/3534678.3539277'
 url_code: ''
 url_dataset: ''
 url_poster: ''

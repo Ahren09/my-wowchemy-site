@@ -19,12 +19,12 @@ author_notes:
   - 'UCLA'
   - 'UCLA'
 
-date: '2022-09-20 T00:00:00Z'
+date: '2023-01-25 T00:00:00Z'
 doi: ''
 
 # Note: the publishDate cannot be in the future
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-20T00:00:00Z'
+publishDate: '2023-01-25 T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,15 +33,15 @@ publishDate: '2022-09-20T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review # In *Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'22)*
-publication_short: Under Review  # In *KDD 2022*
+publication: In *Proceedings of the Web Conference 2023*
+publication_short: In *WebConf 2023*
 
-abstract: TBD
+abstract: Open Source Software (OSS) is forming the spines of technology infrastructures, attracting millions of talents to contribute. Notably, it is challenging and critical to consider both the developers' interests and the semantic features of the project code to recommend appropriate development tasks to OSS developers. In this paper, we formulate the novel problem of code recommendation, whose purpose is to predict the future contribution behaviors of developers given their interaction history, the semantic features of source code, and the hierarchical file structures of projects. We introduce CODER, a novel graph-based **CODE** **R**ecommendation framework for open source software developers, which accounts for the complex interactions among multiple parties within the system. CODER jointly models microscopic user-code interactions and macroscopic user-project interactions via a heterogeneous graph and further bridges the two levels of information through aggregation on file-structure graphs that reflect the project hierarchy. Moreover, to overcome the lack of reliable benchmarks, we construct three large-scale datasets to facilitate future research in this direction. Extensive experiments show that our CODER framework achieves superior performance under various experimental settings, including intra-project, cross-project, and cold-start recommendation. 
 
 # Summary. An optional shortened abstract.
-summary: Code recommendation based on Graph Neural Networks 
+summary: Code recommendation based on Graph 
 
-tags: [GNN]
+tags: [GNN, Recommender System, Social Network Analysis, Software Engineering]
 
 # Display this page in the Featured widget?
 featured: true
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2210.08332'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,7 +63,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: Yiqiao Jin'
+  caption: 'Our Proposed CODER Framework'
   focal_point: ''
   preview_only: false
 

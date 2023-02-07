@@ -30,7 +30,7 @@ experience:
     date_start: '2022-07-25'
     date_end: ''
     description: |2-
-      Research Topics: Social Network Analysis, Misinformation Detection, Graph Neural Networks, Recommender Systems.
+      Research Topics: Social Network Analysis, Misinformation Detection, Graph Analysis, Recommender Systems.
   
   - title: Research Intern
     company: Microsoft Research Asia
@@ -77,7 +77,7 @@ experience:
     description: |2-
       Worked on the backend services of IBM Cloud. Developed 
 
-      Created IAR Manual Analysis, an AWS Step Functions workflow that uses AWS Lambda to aggregate datapoints from various data sources (S3, DynamoDB) for SageMaker ML model training, and handles $\ge$ 16,000 requests per summary stage.
+      Created IAR Manual Analysis, an AWS Step Functions workflow that uses AWS Lambda to aggregate datapoints from various data sources (S3, DynamoDB) for SageMaker ML model training, and handles over 16,000 requests per summary stage.
 
 design:
   columns: '2'
