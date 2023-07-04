@@ -52,8 +52,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2210.08332'
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/Ahren09/CODER.git'
+url_dataset: 'https://github.com/Ahren09/CODER.git'
 url_poster: ''
 url_project: ''
 url_slides: ''
