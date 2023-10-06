@@ -59,9 +59,9 @@ url_pdf: 'https://arxiv.org/abs/2306.02259'
 url_code: 'https://github.com/claws-lab/INPAC.git'
 url_dataset: 'https://github.com/claws-lab/INPAC.git'
 url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
+url_project: '/pages/kdd2023'
+url_slides: '/slides/Slides_KDD2023_INPAC.pdf'
+url_source: '/pages/kdd2023'
 url_video: 'https://youtu.be/xlWkXHa0gio'
 
 # Featured image
