@@ -1,5 +1,6 @@
 ---
-title: 'Ask Me in English Instead: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries'
+title: 'Better to Ask in English: Cross-Lingual Evaluation of Large
+Language Models for Healthcare Queries'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,18 +33,18 @@ publishDate: '2023-10-08 T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Under Review
-publication_short: Under Review
+publication: The Web Conference 2024
+publication_short: WebConf'24
 
 abstract: Large language models (LLMs) are transforming the ways the general public accesses and consumes information. Their influence is particularly pronounced in pivotal sectors like healthcare, where lay individuals are increasingly appropriating LLMs as conversational agents for everyday queries. While LLMs demonstrate impressive language understanding and generation proficiencies, concerns regarding their safety remain paramount in these high-stake domains. Moreover, the development of LLMs is disproportionately focused on English. It remains unclear how these LLMs perform in the context of non-English languages, a gap that is critical for ensuring equity in the real-world use of these systems. This paper provides a framework to investigate the effectiveness of LLMs as multi-lingual dialogue systems for healthcare queries. Our empirically-derived framework "CliEval" focuses on three fundamental principles for evaluating LLM responses to naturalistic human-authored health-related questions, namely, correctness, consistency, and verifiability. Through extensive experiments on four major global languages, including English, Spanish, Chinese, and Hindi, spanning three expert-annotated large health Q&A datasets, and through an amalgamation of algorithmic and human-evaluation strategies, we found a pronounced disparity in LLM responses across these languages, indicating a need for enhanced cross-lingual capabilities. We further propose CliMed, a cross-lingual benchmark for examining the multilingual capabilities of LLMs in the healthcare context. Our findings underscore the pressing need to bolster the cross-lingual capacities of these models and the equitable information accessibility for all.
 
 # Summary. An optional shortened abstract.
 summary: A comprehensive cross-lingual framework to investigate the effectiveness of LLMs as multi-lingual dialogue systems for healthcare queries.
 
-tags: [GNN, Recommender System, Social Network Analysis, Software Engineering]
+tags: [Large Language Model, Healthcare, Social Computing, Multimodal]
 
 # Display this page in the Featured widget?
 featured: true
@@ -65,7 +66,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Our Proposed CliEval Framework'
+  caption: 'Our Proposed XLingEval Framework'
   focal_point: ''
   preview_only: false
 

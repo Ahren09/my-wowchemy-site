@@ -47,7 +47,7 @@ summary: Fake News Detection, Natural Language Processing,
 tags: [Misinformation, GNN, Social Network Analysis, Social Media]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

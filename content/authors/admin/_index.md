@@ -18,18 +18,20 @@ bio: My research interests include Computational Social Science, Misinformation,
 
 # Interests to show in About widget
 interests:
-  - Graph Analysis
-  - Data Mining
+  - Large Language Models (LLM)
+  - Multimodal Learning
   - Social Computing
-  - Misinformation
+  - Data Mining
+  - Graph Neural Networks
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: Georgia Institute of Technology (GaTech)
       year: 2022-2027
-    - course: BSc in Computer Science
+    - course: B.S in Computer Science
       institution: University of California, Los Angeles (UCLA)
       year: 2018-2021
 
@@ -71,10 +73,10 @@ highlight_name: true
 
 Yiqiao Jin (靳轶乔, Ahren) is a CS Ph.D. student at Georgia Institute of Technology, advised by Professor [Srijan Kumar](https://cc.gatech.edu/~srijan/). 
 
-Previously, he was working as a research intern at [Microsoft Research Asia (MSRA)]('https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He was mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and lead research projects on Explainable NLP, Computational Social Science, and Recommender Systems.
+Previously, he was working as a research intern at [Microsoft Research Asia (MSRA)]('https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/groups/'), Social Computing Group, directed by [Dr. Xing Xie](https://scholar.google.com/citations?hl=zh-CN&user=5EQfAFIAAAAJ). He was mentored by [Dr. Xiting Wang](https://scholar.google.com/citations?hl=zh-CN&user=urC8meQAAAAJ) and [Dr. Jindong Wang](https://jd92.wang/), and lead research projects on Large Language Models, Explainable NLP, Computational Social Science, and Recommender Systems.
 
 
-Yiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/)) on graph-based recommender systems under the mentorship of [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/)
+Yiqiao also worked as an undergraduate research assistant at Scalable Analytics Institute ([ScAi](https://scai.cs.ucla.edu/)) on graph neural networks and recommender systems under the mentorship of [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/) and [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang/)
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -48,7 +48,7 @@ summary: Reinforcement Learning, Natural Language Processing
 tags: [Reinforcement Learning, Natural Language Processing]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

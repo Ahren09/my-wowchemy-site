@@ -4,6 +4,12 @@
 
 Install [Hugo](https://gohugo.io/installation/macos/)
 
+For example:
+
+```
+brew install hugo@0.104.3
+```
+
 Note: v0.104.3 is recommended as it is used for this site. 
 
 ```bash

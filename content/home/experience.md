@@ -30,7 +30,9 @@ experience:
     date_start: '2022-07-25'
     date_end: ''
     description: |2-
-      Research Topics: Social Network Analysis, Misinformation Detection, Graph Analysis, Recommender Systems.
+      Research Topics: Large Language Models (WebConf’24), Fairness and Equity (WebConf’24, In preparation for SIGIR'24), Social Network Analysis (KDD’23), Dynamic Graph Neural Networks (KDD’23), Multimodal Models (In preparation).
+
+      Advisor: Dr. Srijan Kumar
   
   - title: Research Intern
     company: Microsoft Research Asia
@@ -40,8 +42,9 @@ experience:
     date_start: '2020-12-22'
     date_end: '2022-07-22'
     description: |2-
-      Publish two academic papers on Fake News Detection at top-tier conferences (AAAI'22 and KDD'22).
-      Conduct Research on Fake News Detection and Natural Language Processing for low-resource (limited data) scenarios. 
+      Research Topics: Large Language Models and Agents (ICML'24), Language Models (ICML'23, AAAI'23), Misinformation Detection (KDD'22, AAAI'22), Learning in Low-Resource Scenarios (AAAI'23), Explainable AI (AAAI'22).
+
+      Advisors: Dr. Xiting Wang, Dr. Jindong Wang, and Dr. Xing Xie. 
   
   - title: Graduate Research Assistant
     company: UCLA Scalable Analytics Institute (ScAi)
@@ -51,9 +54,10 @@ experience:
     date_start: '2021-07-01'
     date_end: '2022-06-01'
     description: |2-
-      Work on Graph-based Recommendation.
+      Research Topics: Graph Neural Networks (WWW'23), Graph-Based Recommender Systems (WWW'23), Social Computing (AAAI'23, AAAI'22).
 
-      Construct a multi-modal dataset for code recommendation that covers multiple topics in Computer Science.
+      Advisors: Dr. Yizhou Sun, Dr. Wei Wang
+
 
   - title: Software Engineer Intern
     company: Amazon.com
